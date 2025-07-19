@@ -1,0 +1,3 @@
+Ammonia,NH3
+Methane,CH4
+Water,H20
